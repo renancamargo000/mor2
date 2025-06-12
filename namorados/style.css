@@ -1,0 +1,79 @@
+.leg-foto1{
+    text-align: center;
+    width: 1300px;
+    
+    
+}
+.leg-foto2{
+    text-align: center;
+    width: 1300px;
+    
+    
+}
+.leg-foto3{
+    text-align: center;
+    width: 1300px;
+    
+    
+}
+.leg-foto4{
+    text-align: center;
+    width: 1300px;
+    
+    
+}
+.leg-foto5{
+    text-align: center;
+    width: 1400px;
+    
+    
+}
+
+
+
+h1{
+    font-family: cursive;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+
+}
+
+p{
+     font-family: cursive;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+li{
+    text-align: center;
+}
+
+
+body{
+    background: linear-gradient(red,blue);
+}
+
+h3{
+    text-align: center;
+
+}
+
+.convitetrecho{
+    color: white;
+    text-align: center;
+}
+
+a{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.Convite{
+     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 400px;
+     
+}
